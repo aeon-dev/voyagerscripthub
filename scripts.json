@@ -6,7 +6,7 @@
       "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
       "scriptType": "free",
       "key": "Keyless",
-      "game": "Universal",
+      "game": "Universal"
     },
     {
       "name": "Unnamed ESP",
@@ -14,7 +14,7 @@
       "code": "pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))() end)",
       "scriptType": "free",
       "key": "Keyless",
-      "game": "Universal",
+      "game": "Universal"
     },
     {
       "name": "AUNC Test Script",
@@ -22,7 +22,7 @@
       "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aeon-dev/PublicAunc/main/ConsoleScript'))()",
       "scriptType": "free",
       "key": "Keyless",
-      "game": "Universal",
+      "game": "Universal"
     },
     {
       "name": "IY Reborn",
@@ -30,7 +30,7 @@
       "code": "loadstring(game:HttpGet('https://github.com/fuckusfm/infiniteyield-reborn/raw/master/source'))()",
       "scriptType": "free",
       "key": "Keyless",
-      "game": "Universal",
+      "game": "Universal"
     },
     {
       "name": "Aimbot",
@@ -38,7 +38,7 @@
       "code": "loadstring(game:HttpGet('http://uk1.noxia.cloud:10022/aimbot.txt'))()",
       "scriptType": "free",
       "key": "Keyless",
-      "game": "Universal",
+      "game": "Universal"
     },
     {
       "name": "Nexpass",
@@ -46,7 +46,7 @@
       "code": "loadstring(game:HttpGet('http://uk1.noxia.cloud:10022/nexpass.txt'))()",
       "scriptType": "free",
       "key": "Keyless",
-      "game": "Universal",
+      "game": "Universal"
     },
     {
       "name": "Chat Spammer",
@@ -54,8 +54,7 @@
       "code": "loadstring(game:HttpGet('http://uk1.noxia.cloud:10022/chatspam.txt'))()",
       "scriptType": "free",
       "key": "Keyless",
-      "game": "Universal",
+      "game": "Universal"
     }
   ]
-
 }
