@@ -1,0 +1,61 @@
+{
+  "scripts": [
+    {
+      "name": "Infinite Yield",
+      "description": "A command line script hub with over 6 years of development",
+      "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+      "scriptType": "free",
+      "key": "Keyless",
+      "game": "Universal",
+    },
+    {
+      "name": "Unnamed ESP",
+      "description": "Player ESP for Roblox, fully undetectable",
+      "code": "pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))() end)",
+      "scriptType": "free",
+      "key": "Keyless",
+      "game": "Universal",
+    },
+    {
+      "name": "AUNC Test Script",
+      "description": "A more maintained version of UNC by Aeon",
+      "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aeon-dev/PublicAunc/main/ConsoleScript'))()",
+      "scriptType": "free",
+      "key": "Keyless",
+      "game": "Universal",
+    },
+    {
+      "name": "IY Reborn",
+      "description": "Infinite Yield but more maintained",
+      "code": "loadstring(game:HttpGet('https://github.com/fuckusfm/infiniteyield-reborn/raw/master/source'))()",
+      "scriptType": "free",
+      "key": "Keyless",
+      "game": "Universal",
+    },
+    {
+      "name": "Aimbot",
+      "description": "Universal Aimbot Script",
+      "code": "loadstring(game:HttpGet('http://uk1.noxia.cloud:10022/aimbot.txt'))()",
+      "scriptType": "free",
+      "key": "Keyless",
+      "game": "Universal",
+    },
+    {
+      "name": "Nexpass",
+      "description": "Chat Bypasser",
+      "code": "loadstring(game:HttpGet('http://uk1.noxia.cloud:10022/nexpass.txt'))()",
+      "scriptType": "free",
+      "key": "Keyless",
+      "game": "Universal",
+    },
+    {
+      "name": "Chat Spammer",
+      "description": "Universal Chat Spammer",
+      "code": "loadstring(game:HttpGet('http://uk1.noxia.cloud:10022/chatspam.txt'))()",
+      "scriptType": "free",
+      "key": "Keyless",
+      "game": "Universal",
+    }
+  ]
+
+}
